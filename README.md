@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damien Brebion</h1>
 <h3 align="center">A passionate analyst developer from Belgium</h3>
 
-- 🔭 I’m currently working on **OPS Pro (One Piece TCG Simulator)**
+- 🔭 I’m currently working on **Pokebot**
 
 - 🌱 I’m currently learning **Design Patterns and Godot Engine**
 
